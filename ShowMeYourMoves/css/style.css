@@ -1,0 +1,36 @@
+body {
+	background-color: #eee;
+}
+
+div {
+	border: 1px solid black;
+	background-color: gray;
+	text-align: center;
+	display: block;
+}
+
+#vittext {
+	color: #fff;
+}
+
+#sad {
+	height: 600px;
+	width: 420px; 
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#fancytext {
+	text-align: center;
+	font-family: Georgia;
+	font-style: italic;
+}
+
+#pepe {
+	height: 600px;
+	width: 420px; 
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
